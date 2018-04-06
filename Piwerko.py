@@ -14,4 +14,5 @@ while True:
         print('Ta, na pewno.')
     else:
         print('Już chyba parę zostało wypitych.')
+        Poka piwo
    
